@@ -1,0 +1,33 @@
+form{
+border: 2px solid white;
+text-align: center;
+width: 300px;
+margin: 0 auto;
+font-size: 20px;
+padding: 10px;
+border-radius: 20px;
+box-shadow: 1px 1px 60px black;
+}
+
+input{
+padding: 5px 5px 5px 5px;
+border-radius: 10px 0px 10px 0px;
+transition: 1s;
+}
+input:focus{
+transition: 1s;
+border-radius: 0px 10px 0px 10px;
+}
+h1{
+text-align: center;
+}
+body{
+    color: white;
+    background-color: #30197d;
+}
+textarea{
+    width: 200px;
+    height: 140px;
+    border-radius: 10px;
+    
+}
